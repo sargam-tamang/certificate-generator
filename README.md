@@ -85,6 +85,7 @@ Use **Cover** to fill the frame, **Contain** to show the whole image, or **Fill*
 
 The browser also autosaves when storage is available and offers to restore your work on your next visit. Keep a downloaded project as your backup.
 <!-- readme comment added -->
+<!-- change directly -->
 
 ## Export
 
