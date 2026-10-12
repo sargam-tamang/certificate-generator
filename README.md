@@ -84,6 +84,7 @@ Use **Cover** to fill the frame, **Contain** to show the whole image, or **Fill*
 **Save project** downloads a `.certproj.json` file. **Load project** restores the design, data, pictures, fonts, and layer order.
 
 The browser also autosaves when storage is available and offers to restore your work on your next visit. Keep a downloaded project as your backup.
+<!-- readme comment added -->
 
 ## Export
 
